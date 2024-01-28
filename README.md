@@ -15,7 +15,7 @@ Follow the steps below to get started with this project:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/my-redux-toolkit-project.git
+   git clone https://github.com/azizt24/Redux-toolkit-counterSlice
 Features
 Redux Toolkit setup with a simple counter example.
 React component structure.
